@@ -14,7 +14,3 @@ installation
 
 download it and run it
 
-SUPPORTED OS
-
-
-![Windows_logo_-_2012 svg](https://github.com/zpbt/ispbomb/assets/141137285/71d93851-0b54-46c1-9d7f-e7709ec8632f)
