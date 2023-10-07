@@ -4,7 +4,7 @@ The ISP bomb is a tool that can alter your ISP internet history. For example, if
 
 virus total
 https://www.virustotal.com/gui/file/ad8c79647d324cd0060b16635152a099f6cdae774797b7dc93a397e177defd53
-THE REASON WHY IT GETS FLAG IS THE CONVERTER TO BE COME A EXE
+THE REASON WHY IT GETS FLAG BECAUSE IT IS THE CONVERTER TO BE COME A EXE
 
 ![ezgif com-video-to-gif (9)](https://github.com/zpbt/ispbomb/assets/141137285/1c243e87-f265-4ca4-b99f-d0c7c3aadfee)
 ────────────────────────────────────────────────────────────────────────────────────────
