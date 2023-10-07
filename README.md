@@ -14,3 +14,5 @@ THE REASON WHY IT GETS FLAG BECAUSE IT IS THE CONVERTER TO BE COME A EXE
 the reason why it's not open source and you can't change the url because
 this can be abused as a DDOS tool
 and I don't want this program to be unethical
+---------------------------------------------------------------------------------------------------------------
+more updates are going to be in the future
